@@ -1,0 +1,28 @@
+.trolling {
+	background-color: rgb(255,155,155);
+	width: 300px;
+	border-radius: 5px;
+	border: 1px solid black;
+	padding: 5px;
+	font-size: 16px !important;
+
+}
+#spae_wrap {
+	position: relative;
+
+}
+#spae_wrap #paypalbutton {
+	text-align: center;
+	background-color: rgb('f9f9f9');
+	width: 200px;
+	border: 1px solid black;
+	position: absolute;
+	right: 30px;
+	top: 50px;
+	padding: 8px;
+	z-index: 1000;
+}
+#spae_wrap #paypalbutton p {
+	text-align: left;
+
+}
